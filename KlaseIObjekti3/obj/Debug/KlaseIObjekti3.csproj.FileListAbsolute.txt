@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\bin\Debug\KlaseIObjekti3.exe.config
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\bin\Debug\KlaseIObjekti3.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\bin\Debug\KlaseIObjekti3.pdb
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\obj\Debug\KlaseIObjekti3.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\obj\Debug\KlaseIObjekti3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\obj\Debug\KlaseIObjekti3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\obj\Debug\KlaseIObjekti3.exe
+C:\Users\ucenik\Documents\Visual Studio Codes\KlaseIObjekti3\obj\Debug\KlaseIObjekti3.pdb
